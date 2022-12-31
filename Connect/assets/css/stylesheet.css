@@ -99,12 +99,12 @@ body {
 
 ::-moz-selection {
     color: #FFFFFF;
-    background: #23D3D3;
+    background: #f65c6b;
 }
 
 ::selection {
     color: #FFFFFF;
-    background: #23D3D3;
+    background: #f65c6b;
 }
 
 .nopadding {
