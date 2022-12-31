@@ -512,7 +512,7 @@ body {
 	.cat2 h4 {
 		font-size: 13px;
 		font-weight: 600;
-		color: #21bf73;
+		color: #f65c6b;
 		line-height: 1.2;
 		letter-spacing: 1px;
 		text-transform: uppercase;
@@ -846,7 +846,7 @@ body {
 		.yd-stats .intro h4 {
 			font-size: 14px;
 			font-weight: 600;
-			color: #3498db;
+			color: #f65c6b;
 			line-height: 1.3;
 			letter-spacing: 1px;
 			margin-bottom: 15px;
@@ -1365,7 +1365,7 @@ body {
 		font-weight: 600;
 		line-height: 1.2;
 		letter-spacing: 1px;
-		color: #21bf73;
+		color: #f65c6b;
 		text-transform: uppercase;
 		margin-bottom: 20px;
 	}
@@ -1459,7 +1459,7 @@ body {
 	font-size: 13px !important;
 	font-weight: 500 !important;
 	margin: 0 !important;
-	color: #21bf73;
+	color: #f65c6b;
 }
 
 #response h4 {
@@ -1477,7 +1477,7 @@ body {
 	font-family: 'Montserrat';
 	font-size: 13px;
 	font-weight: 500;
-	color: #21bf73;
+	color: #f65c6b;
 }
 
 .yd_cta_box #chimp-email-error {
@@ -1525,7 +1525,7 @@ body {
 .footer .footer-logo h2 {
 	font-size: 18px;
 	font-weight: 500;
-	color: #21bf73;
+	color: #f65c6b;
 	text-transform: uppercase;
 	line-height: 1.4;
 }
