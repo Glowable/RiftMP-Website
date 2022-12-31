@@ -497,7 +497,7 @@ body {
 	.cat1 {
 		-webkit-box-flex:1;
 		-ms-flex:1;
-		flex:1;
+		flex:3;
 		text-align: center;
 	}
 
@@ -540,13 +540,14 @@ body {
 		margin-bottom: 25px;
 		margin-right: 0;
 		padding: 50px 50px;
-		border-radius: 1px;
+		border-radius: 10px;
 		background: #FFFFFF;
 		cursor: pointer;
 		text-align: left;
 	}
 
 	.cat-item.clr1 {
+
 		background: #f6eedf;
 		background: #fff2e5;
 	}
@@ -672,6 +673,8 @@ body {
 .ft-flex {
 	padding: 0 0;
 	background: #FFFFFF;
+	
+	
 }
 
 .ft-intro {
@@ -679,6 +682,7 @@ body {
 	text-align: center;
 	max-width: 600px;
 	margin: 0 auto;
+	
 }
 
 
@@ -688,6 +692,7 @@ body {
 	color: #3a3a47;
 	line-height: 1.2;
 	margin-top: 20px;
+	
 }
 
 .ft-intro p {
@@ -698,12 +703,14 @@ body {
   color: #818198;
 	margin-top: 15px;
 	margin-bottom: 15px;
+	
 }
 
 .ft-inner {
 	margin: 0;
 	background: #f8f9fa;
 	padding: 50px;
+	border-radius: 10px;
 }
 
 .ft-inner .ft-image {
@@ -812,16 +819,19 @@ body {
 .ft-inner.ft-inverted .ft-text h2 {
 	color: #3a3a47;
 	letter-spacing: 0.01em;
+	
 }
 
 .ft-inner.ft-inverted .ft-text  p {
   color: #ABAFB3;
+  
 }
 
 
 .ft-inner.ft-inverted .ft-image img {
 	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
   filter: grayscale(10%);
+  
 }
 
 
@@ -863,6 +873,7 @@ body {
 			margin: 0 auto;
 			margin-top: 15px;
 			margin-bottom: 15px;
+			
 		}
 
 		.yd-stats .counter-up {
@@ -905,18 +916,21 @@ body {
 
 	.yd_reviews {
 		padding: 0;
+		border-radius: 10px;
 	}
 
 	.yd_rev_inner {
 		text-align: center;
 		background: #f0f5f9;
 		padding: 50px 0;
+		border-radius: 10px;
 }
 
 	.yd_rev_inner .rev-intro {
 		text-align: left;
 		margin-top: 30px;
 		padding: 50px;
+		
 	}
 
 	.yd_rev_inner .rev-intro h2 {
@@ -924,6 +938,7 @@ body {
 		font-weight: 800;
 		color: #383B61;
 		line-height: 1.2;
+		
 	}
 
 	.yd_rev_inner .rev-intro p {
@@ -933,21 +948,25 @@ body {
 		letter-spacing: 0.01em;
 		color: #6A7076;
 		margin-top: 15px;
+		
 	}
 
 	.yd_rev_inner .rev-list {
 		text-align: left;
 		padding: 50px;
 		background: #f0f5f9;
+		
 	}
 
 	.rev-list .rev-block {
 		text-align: left;
+		
 	}
 
 	.rev-block img {
 		display: inline;
 		margin-right: 10px;
+		
 	}
 
 	.rev-list .rev-block h2 {
@@ -957,6 +976,7 @@ body {
 		font-weight: 500;
 		line-height: 1.6;
 		margin-top: 15px;
+		
 	}
 
 	.rev-list .rev-block .rev-client {
@@ -968,11 +988,14 @@ body {
 		-ms-flex-align: center;
 		align-items: center;
 		margin-top: 25px;
+		
+		
 	}
 
 	.rev-client .rev-text {
 		text-align: left;
 		margin-left: 20px;
+		
 	}
 
 
@@ -983,6 +1006,7 @@ body {
 	  font-weight: 600;
 	  line-height: 1.2;
 	  margin-bottom: 5px;
+	  
 	}
 
 	.rev-client .rev-text p {
@@ -990,12 +1014,14 @@ body {
 	  font-weight: 500;
 	  line-height: 1.6;
 		color: #5e687c;
+		
 	}
 
 
 	.rev-client .rev-text a {
 		color: #3498db;
 		text-decoration: none;
+		
 	}
 
 
@@ -1007,6 +1033,7 @@ body {
 		padding-top: 100px;
 		padding-bottom: 100px;
 		background: #FFFFFF;
+		
 	}
 
 
@@ -1016,6 +1043,7 @@ body {
 		font-weight: 800;
 		line-height: 1.4;
 		margin-bottom: 20px;
+		
 	}
 
 
@@ -1027,10 +1055,12 @@ body {
 		color: #ABAFB3;
 		margin-top: 10px;
 		margin-bottom: 30px;
+		
 	}
 
 	.pricing-details {
 		padding: 50px 0 0 0;
+		
 	}
 
 	.pricing-section .table-left, .pricing-section .table-right {
@@ -1040,6 +1070,7 @@ body {
 		background-color: #f0f5f9;
 		border: transparent;
 		max-width: 400px;
+		border-radius: 10px;
 	}
 
 	.table-left h2, .table-right h2 {
@@ -1144,11 +1175,13 @@ body {
 
 	.yd_faqs {
 		width: 100%;
+		
 	}
 
 	.faq_inner {
 		padding: 100px 0;
 		background: #f0f5f9;
+		border-radius: 10px;
 	}
 
 	.yd_faqs .yd_flx2 {
