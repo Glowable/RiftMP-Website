@@ -267,9 +267,9 @@ body {
 }
 
 .btn-nav:hover {
-	color: #FFFFFF;
-	background: #21bf73;
-  border: 2px solid #21bf73 !important;
+	color: #000000;
+	background: #f65c6b;
+  border: 2px solid #f65c6b !important;
 }
 
 .btn-nav:focus, .btn-nav:active {
@@ -410,9 +410,9 @@ body {
   white-space: nowrap;
   cursor: pointer;
 	background-color: transparent;
-	background: #21bf73;
+	background: #f65c6b;
   color: #FFFFFF !important;
-  border: 2px solid #21bf73 !important;
+  border: 2px solid #e25463 !important;
   border-radius: 5px;
   box-sizing: border-box;
 	-webkit-transition: 0.2s;
@@ -422,8 +422,8 @@ body {
 
 .btn-action:hover {
 	color: #FFFFFF;
-	background: #21bf73;
-	border: 2px solid #21bf73 !important;
+	background: #c14854;
+	border: 2px solid #c14854 !important;
 	outline: none !important;
 	text-decoration: none;
 }
@@ -437,8 +437,8 @@ body {
 
 .btn-outline {
 	background-color: transparent;
-  color: #3498db !important;
-  border: 2px solid #3498db !important;
+  color: #ffffff !important;
+  border: 2px solid #61e4ed !important;
 }
 
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active {
@@ -548,16 +548,15 @@ body {
 
 	.cat-item.clr1 {
 
-		background: #f6eedf;
-		background: #fff2e5;
+		background: #c148544a;
 	}
 
 	.cat-item.clr2 {
-		background: #f8f9fa;
+		background: #9ceef26c;
 	}
 
 	.cat-item.clr3 {
-		background: #f0f5f9;
+		background: #c869f739;
 		margin-right: 0;
 		padding-right: 50px;
 	}
@@ -700,7 +699,7 @@ body {
   font-weight: 400;
   line-height: 1.6;
 	letter-spacing: 0.01em;
-  color: #818198;
+  color: #f8f8f8;
 	margin-top: 15px;
 	margin-bottom: 15px;
 	
@@ -770,7 +769,7 @@ body {
 	font-family: 'Montserrat';
 	font-size: 15px;
 	font-weight: 600;
-	color: #6A7076;
+	color: #1c79d5;
 	margin: 15px 0;
 }
 
