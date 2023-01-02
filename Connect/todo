@@ -3,3 +3,7 @@ for example: "join the discord if you run into any issues<br>(button)
 ^^----COMPLETED----^^
 
 Change button from installer.exe to easyinstaller.exe
+
+BEFORE RELEASE:
+
+CHANGE DESTINATION FILES IN INDEX.HTML CHANGELOG FOR "Downloading EasyInstaller" & "Downloading Launcher"
