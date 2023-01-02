@@ -1,0 +1,18 @@
+----- 1.1.4 (26 August 2021) -----
+Tweaked: Blog Details 02 page
+Tweaked: Dark Mode
+
+----- 1.1.3 (08 August 2021) -----
+New: Blog Details 02 (Full with a sticky table of contents) - https://tinyurl.com/yfkqcjbr
+Fixed: Google fonts not loading
+
+----- 1.1.2 (29 March 2021) -----
+Tweaked: Template overall design
+Tweaked: Changed some HTML structure
+
+----- 1.1.1 (10 March 2021) -----
+Tweaked: Search Banner (Background color changed and background image used instead of the two separate images in the background.)
+
+----- 1.1.0 (02 March 2021) -----
+New: Creative Helpdesk and Contact pages added
+Tweaked: Menu and files re-organized and renamed
