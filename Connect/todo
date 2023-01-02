@@ -7,3 +7,6 @@ Change button from installer.exe to easyinstaller.exe
 BEFORE RELEASE:
 
 CHANGE DESTINATION FILES IN INDEX.HTML CHANGELOG FOR "Downloading EasyInstaller" & "Downloading Launcher"
+
+saved:
+<li><a class="btn-nav js-scroll-trigger" href="#">Play Now!</a></li>
